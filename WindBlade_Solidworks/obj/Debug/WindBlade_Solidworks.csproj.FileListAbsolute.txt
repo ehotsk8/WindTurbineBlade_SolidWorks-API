@@ -1,0 +1,10 @@
+F:\Диплом3\Диплом\WindowsFormsApplication1\WindBlade_Solidworks\bin\Debug\WindBlade_Solidworks.exe.config
+F:\Диплом3\Диплом\WindowsFormsApplication1\WindBlade_Solidworks\obj\Debug\WindBlade_Solidworks.csproj.ResolveComReference.cache
+F:\Диплом3\Диплом\WindowsFormsApplication1\WindBlade_Solidworks\obj\Debug\WindBlade_Solidworks.csprojResolveAssemblyReference.cache
+F:\Диплом3\Диплом\WindowsFormsApplication1\WindBlade_Solidworks\obj\Debug\WindowsFormsApplication1.Density.resources
+F:\Диплом3\Диплом\WindowsFormsApplication1\WindBlade_Solidworks\obj\Debug\WindowsFormsApplication1.Result.resources
+F:\Диплом3\Диплом\WindowsFormsApplication1\WindBlade_Solidworks\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Диплом3\Диплом\WindowsFormsApplication1\WindBlade_Solidworks\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\Диплом3\Диплом\WindowsFormsApplication1\WindBlade_Solidworks\obj\Debug\WindowsFormsApplication1.WindSpeed.resources
+F:\Диплом3\Диплом\WindowsFormsApplication1\WindBlade_Solidworks\obj\Debug\WindBlade_Solidworks.Properties.Resources.resources
+F:\Диплом3\Диплом\WindowsFormsApplication1\WindBlade_Solidworks\obj\Debug\WindBlade_Solidworks.csproj.GenerateResource.Cache
